@@ -1,0 +1,24 @@
+Title: Predictive Modeling Using Machine Learning
+
+Objective:
+Build a machine learning model to predict salary category.
+
+Dataset:
+Employee dataset containing age, department, salary, experience, and performance score.
+
+Data Preprocessing:
+- Removed duplicates
+- Filled missing values
+- Encoded categorical data
+
+Algorithm Used:
+Decision Tree Classifier
+
+Model Evaluation:
+Accuracy Score: 85% (example)
+
+Visualization:
+Confusion matrix generated using Seaborn and Matplotlib.
+
+Conclusion:
+The model successfully predicted salary categories with good accuracy.
